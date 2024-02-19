@@ -8,5 +8,6 @@ What I Might Not Realize I Am Missing:
 Insights into the strategies employed by sophisticated threat actors and the ability to anticipate and defend against evolving attack vectors
 
 ### Where are you weak
+    gfghhdyh
 
 ### Future 
