@@ -1,6 +1,6 @@
 # Networking and Cybersecurity
 
-## In this page outlines what I've accomplished in the Networking and Cybersecurity curriculum
+## This page outlines what I've accomplished in the Networking and Cybersecurity curriculum
 
 ### What do you know
 A deeper comprehension of emerging cyber threats, including zero-day vulnerabilities and advanced persistent threats (APTs).
