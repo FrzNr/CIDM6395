@@ -1,4 +1,4 @@
-# Networking and Cybersecurity Reflective Appraisal
+# Networking and Cybersecurity
 
 ## Introduction
 
