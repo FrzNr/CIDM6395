@@ -102,10 +102,10 @@ Networking and Cybersecurity are integratable with other areas due to their foun
 
 **Project Management:** Networking principles play a role in project management by defining the network architecture required for project implementation and communication. Cybersecurity is crucial for project management to assess and mitigate risks, develop incident response plans, and ensure security considerations in the project lifecycle.
 
-## How Networking and Cybersecurity is Integratable with Prior Work
+### How Networking and Cybersecurity is Integratable with Prior Work
 
 In my prior work, the integration of Networking and Cybersecurity is evident in various projects. For instance, in a software development project, I implemented secure communication protocols (Networking) and conducted regular security assessments (Cybersecurity). Similarly, in a data science project, networking principles were employed to establish efficient data transfer mechanisms, while cybersecurity measures were implemented to safeguard sensitive data.
 
-## New Statement Demonstrating Integration
+**New Statement Demonstrating Integration
 
 The integration of Networking and Cybersecurity, along with other areas, allows for a holistic and secure approach to information technology. In my project, I aim to establish a new statement by showcasing how the seamless integration of networking principles and cybersecurity measures enhances the overall efficiency, resilience, and security posture of the system. This integration not only ensures optimal communication and data handling but also mitigates potential risks, contributing to a robust and future-ready information technology infrastructure. By demonstrating the interconnectedness of these curricular areas, the project will exemplify a comprehensive approach that goes beyond individual components, emphasizing the importance of a unified and secure IT ecosystem.
