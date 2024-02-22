@@ -135,3 +135,4 @@ During the presentation of the final project, the integration of Networking and 
 ### Future-Ready Solutions
 
 The new statement positions the project as more than just a culmination of coursework; it is a forward-looking solution that anticipates future challenges. By seamlessly integrating Networking and Cybersecurity, the project not only addresses current requirements but also lays the foundation for scalable, adaptable, and future-ready systems. This forward-thinking approach is a testament to the readiness to navigate the ever-evolving landscape of information technology.
+
