@@ -4,7 +4,7 @@ The WTAMU Graduate Catalog describes the requirements of the MS-CISBA program he
 
 	https://catalog.wtamu.edu/preview_program.php?catoid=30&poid=4839&returnto=2643
 
-The program describes six major curriculum areas, of which the capstone will focus on the following subset:
+The program describes four major curriculum areas, of which the capstone will focus on the following subset:
 
 	Data Analytics (2 courses required)
 	Data Mining and Management (2 courses required)
