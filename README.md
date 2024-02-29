@@ -9,6 +9,6 @@ The program describes six major curriculum areas, of which the capstone will foc
 	Data Analytics (2 courses required)
 	Data Mining and Management (2 courses required)
 	Systems Development (2 courses required)
-	Networking and Cybersecurity (2 courses required)
+	Networking and Cybersecurity (2 courses required) 
 
-The purpose of this repo is to present a portolio and assessment of the strengths and weaknesses with the material in those courses.
+The purpose of this repo is to present a portolio and assessment of the strengths and weaknesses with the material in those courses.  
