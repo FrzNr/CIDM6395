@@ -114,7 +114,7 @@ To supplement this reflective appraisal, I present samples of completed work fro
 
 ## Contribution Towards the Capstone
 
-In the context of the capstone project, my proficiency in networking management, information security, digital forensics, and decision management positions me as a valuable contributor. Integrating these skills will be instrumental in designing a secure and resilient system architecture, ensuring the project aligns with industry standards and best practices.
+In the context of the capstone project, my proficiency in networking management, information security, digital forensics, and decision management positions me as a valuable contributor. Integrating these skills will be instrumental in designing a secure and resilient system architecture, ensuring they aligns with industry standards and best practices.
 
 ## New Statement for Integration
 
