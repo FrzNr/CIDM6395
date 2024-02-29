@@ -118,7 +118,7 @@ In the context of the capstone project, my proficiency in networking management,
 
 ## New Statement for Integration
 
-"In developing the final project, the seamless integration of Networking and Cybersecurity curricular areas manifests as a comprehensive and resilient information technology ecosystem. This integration not only recognizes the foundational role of Networking in facilitating efficient communication but also emphasizes the critical importance of Cybersecurity in safeguarding this communication against evolving threats.
+In developing the final project, the seamless integration of Networking and Cybersecurity curricular areas manifests as a comprehensive and resilient information technology ecosystem. This integration not only recognizes the foundational role of Networking in facilitating efficient communication but also emphasizes the critical importance of Cybersecurity in safeguarding this communication against evolving threats.
 
 ### Portfolio Development
 
